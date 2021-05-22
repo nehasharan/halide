@@ -1,0 +1,2 @@
+lib/libHalide.11.0.1.dylib filter=lfs diff=lfs merge=lfs -text
+lib/libHalide.a filter=lfs diff=lfs merge=lfs -text
